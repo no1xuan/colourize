@@ -16,6 +16,7 @@ Python 版本：3.10.14
 
 # 模型
 下载：https://pan.baidu.com/s/1VVL9NRi772XF7HCwpso1-Q?pwd=m48d
+
 解压到项目的colorizers文件夹里
 
 
